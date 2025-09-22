@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6db50be9-eac2-42c5-884c-478fb717bf49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EchoService.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/echo_service_tcp/tcp_echo_client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/echo_service_tcp/tcp_echo_client_file.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/echo_service_tcp/tcp_echo_server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/echo_service_tcp/tcp_echo_server_file.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multi_threaded_tcp/tcp_multi_threaded_client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multi_threaded_tcp/tcp_multi_threaded_server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project_2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project_3/tcp_file_client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project_3/tcp_file_server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +37,9 @@
     "Application.tcp_file_server.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/CS_316/EchoService",
     "project.structure.last.edited": "Modules",

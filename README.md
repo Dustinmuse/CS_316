@@ -4,12 +4,14 @@ This repository contains coursework for CS 316. It implements a simple client–
 
 ## Repository Structure
 
+```text
 CS_316/
-├── ClientFiles/ # Java code for the client side
-├── ServerFiles/ # Java code for the server side
-├── src/ # Shared/common code
+├── ClientFiles/ #Contains file that the client has to send
+├── ServerFiles/ #Contains file that the server has to send and receives
+├── src/ #Contains all code for projects done in class
 ├── .gitignore
 └── EchoService.iml # IntelliJ IDEA project file
+```
 
 ## Features
 

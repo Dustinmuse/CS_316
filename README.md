@@ -22,7 +22,7 @@ CS_316/
 
 ## Prerequisites
 
-- Java JDK 17+ (or your course-specified version)
+- Java JDK 17+
 - IntelliJ IDEA or another Java IDE
 - Command line (optional) to compile/run without IDE
 

@@ -12,7 +12,7 @@ import java.nio.channels.SocketChannel;
 import java.util.Scanner;
 
 public class tcp_file_client {
-    public static void main(String[] args) throws Exception { // Dustin IP: 10.222.24.143
+    public static void main(String[] args) throws Exception {
         if(args.length != 2) {
             System.out.println("Please specify two arguments: <serverIP> and <serverPort>.");
         }
